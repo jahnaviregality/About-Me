@@ -1,12 +1,12 @@
 
 # Applied NLP · AI Education · Systems Strategy
 
-A compact, authoritative profile: senior academic practice in applied Natural Language Processing, production‑oriented research mentoring, and system‑level AI design — focused on reproducible outcomes and operational delivery.
+Teaching machines to read; teaching students to ship.
 
 ---
 
 ## Professional Summary
-Professor — Department of Artificial Intelligence & Data Science.  
+Asst. Professor — Department of Artificial Intelligence & Data Science.  
 Specialist in applied NLP, retrieval‑augmented systems, and multimodal prototypes with an emphasis on reproducibility and deployability.  
 Valedictorian (B.Tech & M.Tech). Mentored 200+ students through real‑time AI/ML project cycles and guided research contributions, including Smart India Hackathon (microplastics).  
 Holder of 630+ certifications across Harvard, Oracle, IBM, Google, Infosys, ALX; AWS Educator registration through institution.
