@@ -1,5 +1,3 @@
-<!-- Hero banner (replace if you prefer a custom image; recommended size: 1200×300) -->
-![Hero Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=1400&q=80)
 
 # Applied NLP · AI Education · Systems Strategy
 
@@ -33,8 +31,6 @@ Holder of 630+ certifications across Harvard, Oracle, IBM, Google, Infosys, ALX;
 - Budget & expense tracking systems — privacy-aware summarization and lightweight analytics.  
 - Productivity browser extensions — event-driven automation and compact local models.  
 
-<!-- Architecture visualization (public image example) -->
-![Architecture](https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=1200&q=80)
 
 ### Advanced NLP & Intelligent Systems
 - Resume parsing, scoring & improvement systems — structured extraction and feedback generation.  
@@ -51,10 +47,7 @@ Holder of 630+ certifications across Harvard, Oracle, IBM, Google, Infosys, ALX;
 - Smart India Hackathon — microplastics analysis: domain-specific pipeline and prototype delivery.  
 - Student-led research prototypes and applied papers — structured guidance, reproducible experiments, and co-authored outputs.  
 
-<!-- Research lifecycle visual (public image example) -->
-![Research Workflow](https://images.unsplash.com/photo-1581091012184-7d2f2b0d7b3c?auto=format&fit=crop&w=1200&q=80)
 
----
 
 ## Teaching, Research & Mentorship
 - Curriculum ownership: designed and delivered NLP and Full‑Stack Development courses with laboratory components; lab setup completed in ≈81 days.  
